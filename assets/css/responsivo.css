@@ -1,0 +1,11 @@
+@media (max-width: 650px){
+    section{
+    width: 80%;
+    }   
+}
+
+@media (min-width: 700px) and (max-width: 800px){
+    section{
+    width: 60%;
+    }   
+}
